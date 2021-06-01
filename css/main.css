@@ -25,6 +25,22 @@
 
 }
 
+.ofsBottom:last-of-type {
+    margin-bottom: 0;
+}
+
+.ofsInBottom:last-of-type {
+    padding-bottom: 0;
+}
+
+.processHolder.clearfix.ofsTop {
+    margin-bottom: 50px;
+}
+
+.container .one-third.column {
+    width: 300px;
+    height: 360px;
+}
 
 /*Wrapper*/
 #wrapper{
