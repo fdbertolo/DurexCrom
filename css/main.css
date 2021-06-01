@@ -1408,7 +1408,7 @@ h1.projTitle span {
 	#loaderInner {background-position: 50% center;}
 	.mainSlider .slides li{	background-attachment: scroll;background-position:top center !important;background-size: cover;}
 	.mainSlider .flex-control-nav, .projectSlider .flex-control-nav, .postSliderLarge .flex-control-nav {opacity:1 !important;bottom: 20px !important;}
-	.caption h1{padding:18px;font-size: 20px;border:none;}
+	.caption h1{padding:18px;font-size: 40px;border:none;}
 	.captionInner{padding:5px 5px 0px 5px;border:none;}	
 	.introShort{font-size:18px;}
 	.logo, .ctl a {display:none !important;}
@@ -1459,7 +1459,7 @@ h1.projTitle span {
 	.mainSlider .flex-control-nav {opacity:1 !important;bottom: 50px !important;}
 	.projectSlider .flex-control-nav {opacity:1 !important;bottom: 20px !important;}
 	.postSlider .flex-control-nav, .postSliderLarge .flex-control-nav {opacity:1 !important;bottom: 15px !important;}	
-	.caption h1{padding:18px;font-size: 18px;}
+	.caption h1{padding:18px;font-size: 40px;}
 	.captionInner{padding:5px 5px 5px 5px;}
 	.introShort{font-size:18px;}	
 	.logo {display:none !important;}
