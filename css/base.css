@@ -69,6 +69,13 @@ img {
     color: #ffffff;
 }
 
+.flotante {
+    display:scroll;
+        position:absolute;
+        bottom:10px;
+        right:10px;
+}
+
 a:focus {
 outline: 0;
 }
@@ -81,8 +88,8 @@ iframe{width:100%;frameborder:0;}
 ================================================== */
 	body {
 		background: #ffffff;
-		font: 14px/21px 'ralewayregular', Arial, sans-serif;
-		color: #9d9d9d;
+		font: 14px/21px 'raleway-regular', Arial, sans-serif;
+		color: #444444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
 		-webkit-text-stroke: 0.30px;
@@ -97,7 +104,7 @@ iframe{width:100%;frameborder:0;}
 	
 	
 	.title:before {
-	    border-bottom: 2px solid #000000;
+	    border-bottom: 2px solid #E8BB00;
 	    content: "";
 	    display: block;
 	    margin-bottom: 50px;
@@ -148,7 +155,7 @@ iframe{width:100%;frameborder:0;}
 	
 	.btn a:hover, .tagsListSingle li a:hover, .tagsList li a:hover, .contactForm #submit:hover , .replyForm #submit:hover,
 	.projSocials li a:hover, .projNav li a:hover, .comments .reply-btn a:hover, .comments .reply-btn a   {
-		color:#C3512F;
+		color:#513C8A;
 	}
 
 	
@@ -207,7 +214,7 @@ iframe{width:100%;frameborder:0;}
 
 	.doubleBtn .choose {
 	    background:#FAFAFA;
-	    color: #C3512F;
+	    color: #513C8A;
 	    display: block;
 	    font-size: 11px;
 	    height: 10px;

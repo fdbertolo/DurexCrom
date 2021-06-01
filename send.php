@@ -31,8 +31,8 @@ $msg .= "User IP : ".$_SERVER["REMOTE_ADDR"]."\r\n";
 $msg .= "Browser info : ".$_SERVER["HTTP_USER_AGENT"]."\r\n"; 
 $msg .= "User come from : ".$_SERVER["SERVER_NAME"];
 
-$recipient = "ghribbenaissa@gmail.com";// Change the recipient email adress to your adrees  
-$sujet =  "Sender information";
+$recipient = "durexcrom@gmail.com";// Change the recipient email adress to your adrees  
+$sujet =  "Consulta de la web";
 $mailheaders = "From: $email\r\nReply-To: $email\r\nReturn-Path: $email\r\n";
 
 if (!$error){
@@ -41,7 +41,7 @@ if (!$error){
 		
 		if ($sending) {
 				// If the message is sent we output a string to use it 
-				echo "SENDING"; 
+				echo "Enviando"; 
 			} else {
 				// Display Error Message
 				echo $errorMessage; 

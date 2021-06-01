@@ -77,7 +77,7 @@ header{
 
 
 .logo img {
-	width:30%;
+	width:85%;
 }
 
 
@@ -90,7 +90,7 @@ header{
 
 
 .mainNav li a {
-    color: #9D9D9D;
+    color: #444444;
     display: block;
     padding: 48px 15px;
     position: relative;
@@ -161,7 +161,6 @@ header{
 }
 
 .captionInner{
-	border:3px solid #ffffff;
 	display:inline-block;
 	padding:5px;
 }
@@ -169,8 +168,7 @@ header{
 
 .caption h1{
 	color:#ffffff;
-	font-size:40px;
-	border:3px solid #ffffff;
+	font-size:60px;
 	display:block;
 	padding:40px;
 	text-transform: uppercase;
@@ -220,9 +218,8 @@ header{
 
 .innerIco{
 	padding:10px;
-	border:1px solid #dcdcdc;
 	display:inline-block;
-	color:#343434;
+	color:#513C8A;
 }
 
 
@@ -230,7 +227,7 @@ header{
 .prTitle{
 	font-size:16px;
 	margin-bottom:8px;
-	color:#C3512F;
+	color:#513C8A;
 }
 
 
@@ -391,7 +388,7 @@ header{
 }
 
 .service h2 {
-    color:#C3512F;
+    color:#513C8A;
 	font-size:16px;
 	margin-bottom:20px;
 }
@@ -447,7 +444,7 @@ header{
 }
 
 .otherList ul i {
-    color: #C3512F;
+    color: #513C8A;
     display: inline-block;
     font-size: 7px;
     margin-right: 5px;
@@ -538,7 +535,7 @@ header{
 
 
 .planHeader.featured .planPrice h1, .planHeader.featured .planName h3{
-	color:#C3512F;
+	color:#513C8A;
 }
 
 
@@ -582,7 +579,7 @@ header{
 
 
 .doubleBtn.planBtn.featured a{
-	color:#C3512F;
+	color:#513C8A;
 }
 
 .doubleBtn.planBtn.featured i{
@@ -640,7 +637,7 @@ ul#category li a {
 
 
 ul#category li a:hover {
-    color: #C3512F;
+    color: #513C8A;
 }
 
 
@@ -660,7 +657,7 @@ ul#category li a:hover {
 
 
 #category .current a {
-    color: #C3512F;
+    color: #513C8A;
 }
 
 
@@ -713,7 +710,7 @@ h1.projTitle  {
 
 
 h1.projTitle span {
-    color: #C3512F;
+    color: #513C8A;
     display: block;
     font-size: 13px;
     margin-top: 6px;
@@ -755,7 +752,7 @@ h1.projTitle span {
 }
 
 .iList li i {
-    color: #C3512F;
+    color: #513C8A;
     display: inline-block;
     font-size: 7px;
     margin-right: 5px;
@@ -868,7 +865,7 @@ h1.projTitle span {
 
 
 .postMeta a{
-	color:#C3512F;
+	color:#513C8A;
 	
 	
 }
@@ -955,11 +952,11 @@ h1.projTitle span {
 }
 
 .pagination ul li a:hover, .pagination ul li span:hover {
-	color:#C3512F;
+	color:#513C8A;
 }
 
 .pagination ul li a.selected {
-	color:#C3512F;
+	color:#513C8A;
 }
 
 
@@ -971,7 +968,7 @@ h1.projTitle span {
 .postSingle blockquote{
 	font-size:16px;
 	line-height:25px;
-	color:#C3512F;
+	color:#513C8A;
 }
 
 
@@ -993,7 +990,7 @@ h1.projTitle span {
 
 .tagsListSingle li a{
 	
-	background:#C3512F;
+	background:#513C8A;
     color: #ffffff;
     display: inline-block;
     padding: 5px 12px;
@@ -1003,7 +1000,7 @@ h1.projTitle span {
 
 .tagsListSingle li a:hover{
 	background:#fafafa;
-    color: #C3512F;
+    color: #513C8A;
 }
 
 
@@ -1085,7 +1082,7 @@ h1.projTitle span {
 
 
 .commentContent .date a {
-    color: #C3512F;
+    color: #513C8A;
     font-size: 11px;
 	display: inline-block;
 }
@@ -1139,7 +1136,7 @@ h1.projTitle span {
     position: absolute;
     right: 14px;
     top: 15px;
-	color:#C3512F;
+	color:#513C8A;
 	background: #fafafa;
 }
 
@@ -1159,11 +1156,11 @@ h1.projTitle span {
 }
 
 .catArchives li a, .meta abbr {
-    color: #C3512F;
+    color: #513C8A;
 }
 
 .catList li span.countCat {
-    color:#C3512F;
+    color:#513C8A;
 	font-size: 12px;
 }
 
@@ -1233,7 +1230,7 @@ h1.projTitle span {
     padding: 12px 10px;
     resize: none;
     width: 95%;
-	border:1px solid #efefef;
+	border:1px solid #E8BB00;
 	
 }
 
@@ -1246,11 +1243,10 @@ h1.projTitle span {
 
 
 .contactForm #submit, .replyForm #submit  {
- 	background:rgba(0,0,0,0);
-	color:#343434;
+ 	background:#e8bb00;
+	color:#444444;
 	padding:8px 25px;
 	display:inline-block;
-	border:1px solid #DCDCDC;
 	text-transform:uppercase;
 	cursor:pointer;
 }
@@ -1263,7 +1259,7 @@ h1.projTitle span {
 
 
 #success h2, #error h2 {
-    color: #1FB4DA;
+    color: #999999;
     font-size: 11px;
     left: 0;
     position: absolute;
@@ -1272,11 +1268,11 @@ h1.projTitle span {
 }
 
 #error h2 {
-    color: #C3512F;
+    color: #513C8A;
 }
 
 .errorForm {
-    border: 1px solid #C3512F !important;
+    border: 1px solid #513C8A !important;
 }
 
 .cInfo{
