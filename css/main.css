@@ -11,6 +11,12 @@
     z-index: 9999;
 }
 
+.flotante {
+    display:scroll;
+        position:fixed;
+        bottom:50px;
+        right:0px;
+}
 
 #loaderInner {
     background-image: url(../images/spinner.gif);
